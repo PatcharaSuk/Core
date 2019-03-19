@@ -44,6 +44,7 @@
 		7E258F5C2240FDCA00AF5E37 = {
 			isa = PBXGroup;
 			children = (
+				7E258F7A2240FDF100AF5E37 /* Source */,
 				7E258F672240FDCA00AF5E37 /* CoreUtil */,
 				7E258F662240FDCA00AF5E37 /* Products */,
 			);
@@ -60,7 +61,6 @@
 		7E258F672240FDCA00AF5E37 /* CoreUtil */ = {
 			isa = PBXGroup;
 			children = (
-				7E258F7A2240FDF100AF5E37 /* Source */,
 				7E258F682240FDCA00AF5E37 /* AppDelegate.swift */,
 				7E258F6A2240FDCA00AF5E37 /* ViewController.swift */,
 				7E258F6C2240FDCA00AF5E37 /* Main.storyboard */,
