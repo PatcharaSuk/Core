@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  Core
+//  CoreUtil
 //
 //  Created by patchara_suk on 19/3/2562 BE.
 //  Copyright © 2562 mdc. All rights reserved.
