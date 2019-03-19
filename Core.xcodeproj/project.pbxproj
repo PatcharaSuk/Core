@@ -60,7 +60,7 @@
 		7E258F402240BEDB00AF5E37 /* Core */ = {
 			isa = PBXGroup;
 			children = (
-				7E258F532240BF1F00AF5E37 /* Extension */,
+				7E258F532240BF1F00AF5E37 /* Source */,
 				7E258F412240BEDB00AF5E37 /* AppDelegate.swift */,
 				7E258F432240BEDB00AF5E37 /* ViewController.swift */,
 				7E258F452240BEDB00AF5E37 /* Main.storyboard */,
@@ -71,14 +71,14 @@
 			path = Core;
 			sourceTree = "<group>";
 		};
-		7E258F532240BF1F00AF5E37 /* Extension */ = {
+		7E258F532240BF1F00AF5E37 /* Source */ = {
 			isa = PBXGroup;
 			children = (
 				7E258F542240BF4300AF5E37 /* UIViewExtension.swift */,
 				7E258F562240BF6B00AF5E37 /* UIViewControllerExtension.swift */,
 				7E258F582240BF8B00AF5E37 /* IntExtension.swift */,
 			);
-			path = Extension;
+			path = Source;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
