@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
 
   s.source       = { :git => "https://github.com/PatcharaSuk/Core.git", :tag => "#{s.version}" }
 
-  s.swift_versions = '4.2
+  s.swift_versions = '4.2'
   s.ios.deployment_target = '11.0'
 
   s.framework  = "UIKit"
