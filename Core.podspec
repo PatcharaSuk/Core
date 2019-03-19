@@ -9,6 +9,9 @@ Pod::Spec.new do |s|
 
   s.source       = { :git => "https://github.com/PatcharaSuk/Core.git", :tag => "#{s.version}" }
 
+  s.ios.deployment_target = '11.0'
+  s.osx.deployment_target = '11.0'
+
   s.framework  = "UIKit"
   s.requires_arc = true
   
