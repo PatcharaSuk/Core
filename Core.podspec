@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
   s.version      = "0.0.1"
   s.summary      = "Core is utility for project"
   s.homepage     = "https://github.com/PatcharaSuk"
-
+  s.license      = "PatcharaSuk"
   s.author             = { "Patchara Suksiri" => "patchara.suksiri@gmail.com" }
 
   s.source       = { :git => "https://github.com/PatcharaSuk/Core.git", :tag => "#{s.version}" }
