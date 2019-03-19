@@ -11,14 +11,7 @@ Pod::Spec.new do |s|
 
   s.framework  = "UIKit"
   s.requires_arc = true
-  s.default_subspec = 'All'
-
-  s.subspec 'All' do |ss|
-    ss.ios.dependency "Core/Core"
-  end
-
-  s.subspec 'Core' do |ss|
-    ss.source_files = 'Core/Source/**'
-  end
+  
+  s.source_files = 'Core/Source/*.swift'
 
 end
