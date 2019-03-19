@@ -8,7 +8,7 @@
 
 import Foundation
 
-extension Int {
+public extension Int {
     
     public func withCommas() -> String {
         let numberFormatter = NumberFormatter()
