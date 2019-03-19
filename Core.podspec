@@ -6,6 +6,9 @@ Pod::Spec.new do |s|
   s.homepage     = "https://github.com/PatcharaSuk"
   s.license      = "PatcharaSuk"
   s.author             = { "Patchara Suksiri" => "patchara.suksiri@gmail.com" }
+
+  s.ios.deployment_target = "11.0"
+
   s.source       = { :git => "https://github.com/PatcharaSuk/Core.git", :tag => "#{s.version}" }
 
   s.framework  = "UIKit"
