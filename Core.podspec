@@ -20,7 +20,7 @@ Pod::Spec.new do |s|
   end
 
   s.subspec 'Core' do |ss|
-    sub.source_files = 'Core/Source/**'
+    ss.source_files = 'Core/Source/**'
   end
 
 end
