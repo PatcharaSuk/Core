@@ -15,6 +15,6 @@ Pod::Spec.new do |s|
   s.framework  = "UIKit"
   s.requires_arc = true
   
-  s.source_files = 'CoreUtil/Source/*.swift'
+  #s.source_files = 'Source/*.swift'
 
 end
